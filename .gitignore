@@ -1,4 +1,5 @@
-.vscode/
+.vscode
 code_latest_amd64.deb
 packages.microsoft.gpg
 run-windows.bat
+.gitignore
